@@ -1,3 +1,4 @@
+[![An image of @rockyoudead8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rockyoudead8)](https://holopin.io/@rockyoudead8)
 <h1 align="center">Hi 👋, I'm Arpit Goyal</h1>
 <h3 align="center">A passionate coder/programmer interested for learning new things and having interest in web dev,DSA,and many more counting .</h3>
 
